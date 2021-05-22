@@ -1,6 +1,6 @@
 module.exports = {
     //* Bot Config
-    token: `${process.env.TOKEN}`,
+    token: `'${process.env.TOKEN}'`,
     owner: {
         id: '470385774584397837',
         name: "Yunus'Donatello'Acar#2804",
@@ -31,7 +31,7 @@ module.exports = {
     
     //* DB
     // mongoDB: 'mongodb://localhost:27017/kaktusBot',
-    mongoDB: `${process.env.DATABASE_URL}`,
+    mongoDB: `'${process.env.DATABASE_URL}'`,
 
     //* info
     info: {
