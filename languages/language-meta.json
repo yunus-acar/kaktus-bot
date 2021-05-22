@@ -1,0 +1,14 @@
+[
+    
+    {
+        "name": "tr-TR",
+        "nativeName": "Türkçe",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "moment": "tr",
+        "default": true,
+        "aliases": [
+            "Turkish",
+            "tr",
+            "tr_tr"
+        ]
+    }]
