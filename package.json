@@ -5,6 +5,7 @@
   "author": "yunus-acar",
   "license": "MIT",
   "scripts": {
+    "start": "node ./index.js",
     "dev": "nodemon ./index.js"
   },
   "dependencies": {
