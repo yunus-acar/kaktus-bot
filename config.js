@@ -1,6 +1,6 @@
-import dotenv from 'dotenv'
-dotenv.config()
+require('dotenv').config()
 module.exports = {
+    
     //* Bot Config
     token: process.env.TOKEN,
     owner: {
