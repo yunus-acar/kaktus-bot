@@ -1,1 +1,3 @@
-[{"messageID":"845768041710485524","channelID":"767439165734256712","guildID":"767432322684944384","startAt":1621717213318,"endAt":1621717235889,"ended":true,"winnerCount":1,"prize":"sajgg","messages":{"giveaway":"🎉🎉 **ÇEKİLİŞ** 🎉🎉","giveawayEnded":"🎉🎉 **ÇEKİLİŞ SONLANDI** 🎉🎉","inviteToParticipate":"Katılmak için 🎉 tepkisini ver!","timeRemaining":"Kalan zaman: **{duration}**!","winMessage":"Tebrikler, {winners}! **{prize}** Kazandın!","embedFooter":"Çekilişler","noWinner":"Çekiliş iptal edildi, geçerli bir katılım yok.","winners":"kazananlar","endedAt":"Bitiş","hostedBy":"Hosted by: {user}","units":{"seconds":"saniye","minutes":"dakika","hours":"saat","days":"gün","pluralS":false}},"hostedBy":null,"exemptPermissions":[],"bonusEntries":"[]","winnerIDs":[]}]
+[
+    
+]
