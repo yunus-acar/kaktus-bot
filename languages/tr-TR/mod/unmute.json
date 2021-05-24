@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Etiketli üyenin susturulmasını kaldır!",
     "USAGE": "{{prefix}}unmute [@üye]",
-    "EXAMPLES": "{{prefix}}unmute @Androz#2091",
+    "EXAMPLES": "{{prefix}}unmute @Yunus'Donatello'Acar#2804",
     "MISSING_MEMBER": "Lütfen uygun bir üye giriniz!",
     "NOT_MUTED": "**{{username}}** zaten susturulmadı!",
     "SUCCESS": "**{{username}}** susturulma yasağı kaldırıldı!",

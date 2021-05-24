@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Etiketli üyeyi yasakla!",
     "USAGE": "{{prefix}}ban [@kullanıcı] (sebep)",
-    "EXAMPLES": "{{prefix}}ban @Androz#2091 Spam",
+    "EXAMPLES": "{{prefix}}ban @Yunus'Donatello'Acar#2804 Spam",
     "MISSING_MEMBER": "Lütfen yasaklamak için uygun bir üye seçin!",
     "YOURSELF": "Kendini yasaklayamazsın!",
     "SUPERIOR": "Sizinkine eşit veya daha yüksek bir rol sahip bir üyeyi yasaklayamazsınız!",

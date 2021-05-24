@@ -11,7 +11,7 @@
     "MUSIC_TITLE": "• __Music__",
     "MUSIC_CONTENT": "Şuanda `{{count}}` sunucu müzik dinliyor",
     "CREDITS_TITLE": ":heart: • __Teşekkürler & yapımcılar__",
-    "CREDITS_CONTENT": "Emojiler ve resimler için [Icons8](https://icons8.com/) e teşekkür ederiz!\n__**Destekçiler**__:\n{{donators}}\n__**Çevirmenler**__:\n{{translators}}",
+    "CREDITS_CONTENT": "",
     "LINKS_TITLE": "• __Links__",
-    "MADE": "Atlanta açık kaynak kodlu discord botu, Androz#2091 tarafından geliştirildi!"
+    "MADE": "Kaktüs Bot Açık Kaynaklı Discord Botudur"
 }

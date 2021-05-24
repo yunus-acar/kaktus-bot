@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Etiketli üyeyi sunucudan at!",
     "USAGE": "{{prefix}}kick [@üye] (sebep)",
-    "EXAMPLES": "{{prefix}}kick @Androz#2091 Spam",
+    "EXAMPLES": "{{prefix}}kick @Yunus'Donatello'Acar#2804 Spam",
     "MISSING_MEMBER": "Lütfen atmak için uygun bir üye seçin!",
     "MISSING_PERM": "Bir hata oluştu.. Lütfen birini atmam için gereken yetkimin olup olmadığını kontrol edin!",
     "KICKED_DM": "Merhaba {{username}},\nSen **{{server}}** sunucusundan **{{moderator}}** tarafından atıldın **{{reason}}** sebebinden!",
