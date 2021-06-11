@@ -23,8 +23,7 @@ module.exports = {
 	},
     status: [
         { name: 'Kaktüs Bot {serversCount} Sunucuda Bulunuyor', type: 'PLAYING' },
-        { name: "Developed by yunusacar.dev", type: 'PLAYING' },
-        { name: 'pinhani dünyadan uzak', type: 'SPOTIFY' }
+        { name: "Developed by yunusacar.dev", type: 'PLAYING' }
     ],
     embed:{
         color: "#7a0084",

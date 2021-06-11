@@ -51,9 +51,7 @@ class Phcomment extends Command {
 				edit: true
 			});
 		}
-
 	}
-
 }
 
 module.exports = Phcomment;
