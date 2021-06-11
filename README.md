@@ -7,7 +7,7 @@
 
 **Sunucu:** Şuanlık Sadece Node, İlerisi İçin Express de Kullanılacak
 
-  
+
 ## Yükleme 
 
 ### Git Clone 
@@ -43,4 +43,3 @@ yarn global add nodemon --prefix /usr/local || npm install --global nodemon
 
 ![Logo](https://res.cloudinary.com/dgr6spsst/image/upload/c_scale,w_250/v1621794612/kaktus-bot-logo.png)
 
-    

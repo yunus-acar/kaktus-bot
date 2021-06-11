@@ -1,4 +1,4 @@
-/* eslint-disable no-async-promise-executor */
+
 const config = require("../config.js");
 const fetch = require("node-fetch");
 

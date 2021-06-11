@@ -19,8 +19,9 @@ class Addcommand extends Command {
 
 	async run (message, args, data) {
         
-		if (!args[0])
+		if (!args[0]){
 			return message.error("admin/addcommand:MISSING_NAME");
+		}
 
 		const name = args[0].split("\n")[0];
 

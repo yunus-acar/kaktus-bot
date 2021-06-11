@@ -62,7 +62,7 @@ module.exports = class {
 					
 					ctx.fillStyle = "rgb(148,31,158)";
 					const username = stringCleaner(member.user.username, {
-						separator: "🌵",
+						separator: " ",
 						lowercase: false,
 						decamelize: false,
 						preserveLeadingUnderscore: true,
@@ -90,23 +90,23 @@ module.exports = class {
 					ctx.fillText("#", canvas.width - 690, canvas.height - 165);
 					
 					ctx.font = "90px Bold";
-					ctx.strokeStyle = "#ff0000";
-					ctx.lineWidth = 15;
-					ctx.strokeText(member.guild.translate("admin/welcome:TITLE"), canvas.width - 620, canvas.height - 330);
+					ctx.strokeStyle = "#fff";
+					ctx.lineWidth = 5;
+					ctx.strokeText(member.guild.translate("admin/welcome:TITLE"), canvas.width - 650, canvas.height - 330);
 					var gradient = ctx.createLinearGradient(canvas.width - 780, 0, canvas.width - 30, 0);
-					gradient.addColorStop(0, "#e15500");
-					gradient.addColorStop(1, "#e7b121");
+					gradient.addColorStop(0, "#941f9e");
+					gradient.addColorStop(1, "#03A9F4");
 					ctx.fillStyle = gradient;
-					ctx.fillText(member.guild.translate("admin/welcome:TITLE"), canvas.width - 620, canvas.height - 330);
-                
+					ctx.fillText(member.guild.translate("admin/welcome:TITLE"), canvas.width - 650, canvas.height - 330);
+					
 					
 					ctx.beginPath();
 					
 					ctx.lineWidth = 10;
 					
-					ctx.strokeStyle = "#03A9F4";
+					ctx.strokeStyle = "#941f9e";
 					
-					ctx.rect(180, 225, 200, 200);
+					ctx.arc(180, 225, 135, 0, Math.PI * 2, true);
 					
 					ctx.stroke();
 					

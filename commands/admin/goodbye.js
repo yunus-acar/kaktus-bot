@@ -60,12 +60,12 @@ class Goodbye extends Command {
 			const collector = message.channel.createMessageCollector(
 				m => m.author.id === message.author.id,
 				{
-					time: 120000 // 2 minutes
+					time: 120000 
 				}
 			);
 
 			collector.on("collect", async msg => {
-				// If the message is filled, it means the user sent yes or no for the image
+			
 				if (goodbye.message) {
 					if (
 						msg.content.toLowerCase() ===
@@ -90,7 +90,6 @@ class Goodbye extends Command {
 					return collector.stop();
 				}
 
-				// If the channel is filled and the message is not, it means the user sent the message
 				if (goodbye.channel && !goodbye.message) {
 					if (msg.content.length < 1800) {
 						goodbye.message = msg.content;
@@ -99,7 +98,7 @@ class Goodbye extends Command {
 					return message.error("admin/goodbye:MAX_CHARACT");
 				}
 
-				// If the channel is not filled, it means the user sent it
+				
 				if (!goodbye.channel) {
 					const channel = await Resolvers.resolveChannel({
 						message: msg,

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Geçerli şarkıda belirli bir süre ileri veya geri git!!",
+    "USAGE": "{{prefix}}aramak [time]",
+    "EXAMPLES": "{{prefix}}10 saniye devam et",
+    "INVALID_TIME": "Geçerli bir süre belirtmelisiniz!",
+    "SUCCESS": "▶️ Müzik aranıyor!"
+}
