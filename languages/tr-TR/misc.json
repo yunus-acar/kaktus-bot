@@ -12,7 +12,7 @@
     "BOT_USER": "Bu kullanıcı bir bot!",
     "NO_REASON_PROVIDED": "Sebep girmeng gerek!",
     "NO_USER_FOUND_ID": "Böyle bir id de üye yok:`{{id}}`!",
-    "HELLO_SERVER": "Merhaba **{{username}}**, Benim önekim bu sunucu için `{{prefix}}`. Şunu kullanarak`{{prefix}}help komutların listesini alabilirsin!",
+    "HELLO_SERVER": "Merhaba **{{username}}**, Benim önekim bu sunucu için `{{prefix}}`. Şunu kullanarak `{{prefix}}help` komutların listesini alabilirsin!",
     "HELLO_DM": "Merhaba **{{username}}**, şuanda özel mesaj bölümün desin komutun başına ön ek koymana gerek yok.",
     "GUILD_ONLY": "Bu komut sadece Sunucuda geçerlidir!",
     "MISSING_BOT_PERMS": "Şu yetkiler lazım bana: {{list}}",
