@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Özel mesaj yoluyla üyeyi uyar",
     "USAGE": "{{prefix}}warn [@member] [reason]",
-    "EXAMPLES": "{{prefix}}warn @Yunus'Donatello'Acar#2804 Ahmak",
+    "EXAMPLES": "{{prefix}}warn @Yunus'Donatello'Acar#2224 Ahmak",
     "MISSING_MEMBER": "Uyarmak için lütfen uygun bir üye seçin!",
     "MISSING_REASON": "Lütfen bir sebep girin!",
     "WARNED_DM": "Merhaba {{username}},\n **{{server}}** sunucusundan **{{moderator}}** tarfından uyarı aldın sebep: **{{reason}}**!",
