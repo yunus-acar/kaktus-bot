@@ -41,6 +41,6 @@
     "moment": "^2.29.1",
     "mongoose": "^5.12.10",
     "string-sanitizer": "^1.1.1",
-    "ytdl-core": "^4.8.2"
+    "ytdl-core": "^4.9.0"
   }
 }
